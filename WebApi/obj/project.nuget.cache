@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h2bX5usb27QFwJRc4mZgr7GZ77zo0K4HYo+fAbuc0xtcHkSsLhs20ob2axfV5oVLALKB9dYDbKcARQSpcCqk7w==",
+  "dgSpecHash": "u9ZbDzRGAmFRncDp9MgaUyEmeC1IbbtDqiZ6coEPJILlioCOgbTdqLO/ppInYH2apnyGwt8CY7HYas4kpbkFYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Janni\\OneDrive\\Skrivebord\\SEP3Code\\SEP3\\WebApi\\WebApi.csproj",
+  "projectFilePath": "/Users/wojtek/RiderProjects/SEP3/WebApi/WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3L1PPZiAf3CHXiovkOkcTRzlRt6k9V/4K3aQ5S271jrY2SLivNbAeSXtejBlFkDzRSA6z/1KdZatc3OAz25V0A==",
+  "dgSpecHash": "oXO6DZ8X2OEv41eAPRs4PuoV1bUYBanmUOZHRZRLXXmfXxy2R6AxZMIWWJJIZpWmum815dktVQ2Nu8gT6Obvsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Janni\\OneDrive\\Skrivebord\\SEP3Code\\SEP3\\Blazor\\Blazor.csproj",
+  "projectFilePath": "/Users/wojtek/RiderProjects/SEP3/Blazor/Blazor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
